@@ -12,8 +12,6 @@
    height: 37vw;
    background-color: #055182;
 }
-
-
 h1{
     padding: 6vw;
     color: white;
@@ -72,5 +70,25 @@ h1{
     color: white;
     font-size: 3.1vw;
     font-family: 'Times New Roman';
+}
+#email{
+    display: flex;
+    margin-top: -17vw;
+    height: 3.5vw;
+
+}
+#button2{
+    background-color:rgba(8, 8, 8, 0.836);
+    color: white;
+    font-size: 2vw;
+    margin-right: 18vw;
+    width: 20vw;
+
+}
+#email2{
+    background-color:white;
+    color: rgb(251, 248, 248);
+    font-size: 2vw;
+    margin-left: 18vw;
 }
  
